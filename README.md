@@ -20,7 +20,7 @@ ___
 -	HTML e CSS
 - Git e Github
 
-## 🔗 Link do Projeto: https://devpbleite.github.io/calc-app/
+## 🔗 Link do Projeto: https://devpbleite.github.io/boarding-pass/
 ---
 
 ## 📌 Resultado do Projeto:
