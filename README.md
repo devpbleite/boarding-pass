@@ -27,4 +27,4 @@ ___
 ---
 
 <br>
-<p align="center"><img src="https://github.com/devpbleite/boarding-pass/blob/main/assets/airplane.png" width="80%"><br><br></p>
+<p align="center"><img src="https://github.com/devpbleite/boarding-pass/blob/main/assets/print.png" width="80%"><br><br></p>
